@@ -6,7 +6,8 @@
 </p>
 </div>
 <p align ="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Amoory&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
+<img src="https://github-readme-stats.vercel.app/api?username=dev-omar99
+&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
 </p>
 
 
@@ -27,26 +28,20 @@
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
         <img height="65px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="65px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
+     
       <td width="25%" align="center">
         <span> <b>Google Cloud Platform</b></span><br><br><br>
         <img height="65px" src="https://download.logo.wine/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.png">
       </td>
     </tr>
     <tr valign="top">
-           <td width="25%" align="center">
-        <span>Bootstrap 5</span><br><br><br>
-        <img height="64px" src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png">
-      </td>
+          
       <td width="25%" align="center">
         <span>Tailwind CSS</span><br><br><br>
         <img height="64px" src="https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg">
       </td>
       <td width="25%" align="center">
-        <span><b>Sass</b></span><br><br><br>
+        <span><b>Dart</b></span><br><br><br>
         <img height="64px" src="https://www.pngkit.com/png/detail/377-3771972_sass.png">
       </td>
       <td width="25%" align="center">
@@ -56,18 +51,11 @@
     </tr>
     <tr>
       <td width="25%" align="center">
-        <span>React.js</span><br><br><br>
+        <span>flutter</span><br><br><br>
         <img height="64px" src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg">
       </td>
-      <td width="25%" align="center">
-        <span>Next.js</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>React Redux</span><br><br><br>
-        <img height="64px" src="https://brandslogos.com/wp-content/uploads/images/large/redux-logo-vector.svg">
-      </td>
-      <td width="25%" align="center">
+      
+     <td width="25%" align="center">
         <span>Firebase</span><br><br><br>
         <img height="64px" src="https://brandslogos.com/wp-content/uploads/images/large/firebase-logo.png">
       </td>
